@@ -31,11 +31,11 @@ search-engine-parser
 selenium==3.141.0
 setuptools>=40.3.0
 spamwatch
-speedtest-cli
+git+https://github.com/Anshusharma75/jati
 stagger
 telegraph
 tgcrypto
 urbandict==0.5
 wget
 wikipedia
-youtube_dl>=2021.1.8
+git+https://github.com/Anshusharma75/gandusaala
